@@ -1,0 +1,124 @@
+
+
+.img1{
+    height: 750px;
+}
+.navbartext{
+    
+    margin-left: 50px;
+}
+.background{
+    /* background-image: url(munnar.jpg); */
+    
+    width: 1500px;
+    height: 500px;
+}
+.munnar{
+    width: 1480px;
+    height: 700px;
+    
+    
+    
+}
+
+
+
+.articlecontainer{
+    text-align: center;
+    background-image: url(background1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    height:70vh;
+    
+    color: azure;
+}
+.img{width: 150px;
+   height: 200px;
+   margin: 20px;
+}  
+ .text{
+    /* font-family: 'Vollkorn', serif; */
+    margin-top:110px;
+    font-size:large;
+    
+
+}
+.cardsize{
+    height:220px;
+
+}
+.image{
+    height: 200px;
+}
+.districtimage{
+    /* width: 500px;
+    height: 350px;
+    margin-top:120px;
+    margin-left: 120px;
+    border: 3px solid; */
+    border: 1px solid rgb(162, 162, 55);
+    
+
+}
+.historyimage{
+    width: 500px;
+    height: 350px;
+    margin-top:120px;
+    margin-left: 120px;
+    border: 3px solid;
+}
+
+
+.aboutimage{
+    border: 5px solid black;
+    border-radius: 5px;
+    /* margin-left: 30px; */
+}
+.btn{
+text-align: right;
+}
+.discription{
+    font-style: italic;
+}
+.about{
+    line-height: 2em;
+    /* letter-spacing: 1.1px; */
+    /* word-spacing: 0.08em; */
+    text-align:justify;
+    font-size: 18px;
+    
+}
+
+
+.image{
+width: 300px;
+border: 3px solid;
+border-radius: 100px;
+}
+
+.thingstodo{
+    background-color:rgb(165, 42, 42,0.3);
+    background-image: url(https://images.pexels.com/photos/161173/rio-de-janeiro-olympics-2016-niteroi-brazil-161173.jpeg?auto=compress&cs=tinysrgb&w=600);
+    color: azure;
+    /* background-repeat: no-repeat; */
+    /* background-attachment: fixed; */
+    /* background-size:cover; */
+    /* height:70vh; */
+    
+    
+}
+.signup{
+    background-color: rgba(7, 195, 243, 0.2);
+}
+.login{
+    background-color: rgba(10, 189, 238, 0.25);
+}
+/* .form-control{ */
+    /* width:400px; */
+    /* margin-left:50px; */
+/* } */
+/* .margin{ */
+    /* margin-left:170px; */
+/* } */
+
